@@ -1,4 +1,4 @@
-# GarageDistanceSensor
+# Garage Distance Sensor
 
 Distance sensor hooked up to a relay which turns on and off LED light in order to notfy the driver that car is close enough to the wall.
 
