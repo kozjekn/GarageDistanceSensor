@@ -28,4 +28,4 @@ Distance sensor hooked up to a relay which turns on and off LED light in order t
 
 ## References
 
-![](.\assets\ArduinSchema.png)
+![](assets/ArduinSchema.png)
